@@ -1,0 +1,6 @@
+TOKEN = "8288124245:AAFj-OwgSP6qfQJp7sGLcg3qL9HhuWGrsR8"
+ADMINS = [7431625430]
+
+CHANNELS = [
+    "@kanal1",
+]
